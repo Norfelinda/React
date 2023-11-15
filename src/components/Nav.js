@@ -9,10 +9,11 @@ const Nav=(props)=>{
                 <li><Link to="/ejemplo1">ejemplo 1</Link></li>
                 <li><Link to="/ejemplo2">ejemplo 2</Link></li>
                 <li><Link to="/ejemplo3">ejemplo 3</Link></li>
+                <li><Link to="/json">Json</Link></li>
+                <li><Link to="/api">API</Link></li>
+
             </ul>
         </nav>
-
-       
     )
 }
 export default Nav;

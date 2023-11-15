@@ -24,5 +24,21 @@ nav ul{
   margin: 0;
   padding: 0;
   display: flex;
+}
+nav ul li{
   flex-grow: 1;
 }
+nav ul li a{
+  color: aliceblue;
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+  text-align: center;
+}
+
+.caja{
+  border: 2px solid black;
+  width: 300px;
+  border-radius: 10px;
+}
+
